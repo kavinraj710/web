@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="library.xsd">
+<book id="b1">
+<title>Effective Java</title>
+<author>Joshua Bloch</author>
+<genre>Programming</genre>
+<published>2008-05-08</published>
+<price>45.00</price>
+</book>
+<book id="b2">
+<title>Clean Code</title>
+<author>Robert C. Martin</author>
+<genre>Programming</genre>
+<published>2008-08-01</published>
+<price>50.00</price>
+</book>
+<book id="b3">
+<title>Harry Potter and the Philosopher's Stone</title>
+<author>J.K. Rowling</author>
+<genre>Fantasy</genre>
+<published>1997-06-26</published>
+<price>20.00</price>
+</book>
+</library>
